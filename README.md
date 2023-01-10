@@ -19,7 +19,7 @@ https://drive.google.com/file/d/1Asj8UaOu1xZDj1xbnL0DjYu3V7smZuaN/view
 1. Clone the repo
 
    ```bash
-   git clone https://github.com/jarrfajar/Quran
+   git clone https://github.com/jarrfajar/siember
    ```
 2. Install packages
 
